@@ -1,5 +1,12 @@
 <?php
 
+/*
+By Uendel Silveira
+Full Stack Developer
+IDE: PHPStorm
+Created: 08/05/2026
+*/
+
 use Monolog\Handler\NullHandler;
 use Monolog\Handler\StreamHandler;
 use Monolog\Handler\SyslogUdpHandler;
